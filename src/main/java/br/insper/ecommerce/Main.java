@@ -195,5 +195,7 @@ public class Main {
                 compraService.listarCompras();
             }
         }
+        
+        scanner.close();
     }
 }

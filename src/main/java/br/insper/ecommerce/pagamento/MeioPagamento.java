@@ -1,6 +1,5 @@
 package br.insper.ecommerce.pagamento;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 public class MeioPagamento {

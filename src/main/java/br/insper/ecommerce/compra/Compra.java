@@ -2,7 +2,6 @@ package br.insper.ecommerce.compra;
 
 import br.insper.ecommerce.cliente.Cliente;
 import br.insper.ecommerce.pagamento.MeioPagamento;
-import br.insper.ecommerce.pagamento.Pix;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
